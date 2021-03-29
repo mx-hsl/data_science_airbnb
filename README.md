@@ -9,7 +9,7 @@ Let me know what you think about my [post](https://mx-hsl.medium.com/airbnb-data
 
 Clone the repository with:
 ```bash
-git clone 
+git clone https://github.com/mx-hsl/data_science_airbnb.git
 ```
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Jupyter Notebook.
 
